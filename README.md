@@ -1,4 +1,4 @@
-# Knapsack Algoritmos Genéticos
+# mochila-algoritmos-geneticos
 
 Este repositório faz parte de uma atividade da disciplina de Inteligência Artificial no semestre 2025.1.
 
